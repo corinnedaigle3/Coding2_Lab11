@@ -1,11 +1,8 @@
 # Coding2_Lab11
 
 How does each pathfinding algorithms calculate and prioritize paths?
-
 BFS - Explores the nodes through a queue that uses cameFrom to guarantee the shortest path.
-
 DFS - Explores all possible paths with a heuristic that is always zero, to find the shortest path.
-
 A* - BFS guarantees the shortest path, but is more efficient by using a PrioirtyQueue. 
 
 <br>
